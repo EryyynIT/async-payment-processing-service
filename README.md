@@ -41,7 +41,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/Dexter2038/async-payment-processing-service.git
+git clone https://github.com/EryyynIT/async-payment-processing-service.git
 cd async-payment-processing-service
 ```
 
